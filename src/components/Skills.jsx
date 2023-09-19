@@ -132,7 +132,7 @@ export default function Skills() {
                         <a href='https://dkkristensen.dk/stenholt.glas/' target="_blank" className='projectLink'>Besøg siden</a>
                     </div>
 
-                    <img src={stenholt} alt='Collage af billeder af produkter fra Stenholt Glas taget i naturen' className='projectImg'/>
+                    <img src={stenholt} alt='Collage af billeder af produkter fra Stenholt Glas taget i naturen' className='projectImg stenholtImg'/>
                 </div>
 
                 <div className='projectsList'>
